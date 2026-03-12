@@ -13,19 +13,20 @@ An CPU scheduler simulator developed for lab2 requirement of the course, CMSC 12
   * 
 
 * **Timeline:**
-  * Week 1 (Jan 30 - Feb 5): 
-      * FINALIZE ARCHITECTURE
-      * FINALIZE PROGRAM FLOW
+  * Week 1 (Feb 26 - Mar 5): 
+      * finalize architecture
+      * finalize program flow
+      * decide and justify MLFQ design
 
-  * Week 2 (Feb 6 - Feb 12): 
+  * Week 2 (Mar 6 - Mar 12): 
       * initial algorithm
       * tests  for algorithm 
 
-  * Week 3 (Feb 13 - Feb 19):
+  * Week 3 (Mar 13 - Mar 19):
       * polished prototype
       * documentation of issues
 
-  * Week 4 (Feb 26): 
+  * Week 4 (Mar 23): 
       * program defense
       * finalize readme file
       * submit lab2 deliverables  
